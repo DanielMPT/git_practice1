@@ -4,4 +4,6 @@ squared = [i**2 for i in dic if i % 2 == 0]  #
  
 print(squared)
 
+sum = [x + 5 for x in squared]
 
+print(sum)
