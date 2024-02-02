@@ -13,3 +13,5 @@ multiplication = [x * y for x, y in zip(squared, one_to_ten)]
 print(multiplication)
 
 print("Hello GitHub! Hahahahahaha")
+
+print("Me rio de Janeiro!")
